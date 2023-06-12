@@ -1,1 +1,1 @@
-first-projects
+First Project
